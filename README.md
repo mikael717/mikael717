@@ -2,13 +2,13 @@
 # 🤖 Mikael Maia 
 **`Software Engineer`**
 
-Olá, 👋<br>
-Legal tê-lo aqui!! <br/>
+Hi there 👋, Welcome to my Github page!<br>
+ <br/>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mikael-maia-lima/)
 
 ---
-### 🌌 Linguagens e Tecnologias
+### 🌌 Languages ​​and Technologies
 <img 
     align="left" 
     alt="Java" 
@@ -138,7 +138,7 @@ Legal tê-lo aqui!! <br/>
 <br/>
 <br/>
 
-### 📊 Estatísticas
+### 📊 Statistics
 
 <img 
       align="left" 
